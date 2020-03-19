@@ -1,5 +1,12 @@
-32-cvs (in development)
+33-cvs (in development)
 =======================
+
+- **Breaking changes**
+
+  - Remove the ``coq`` checker [GH-1697]
+
+32-cvs (frozen on May 3rd, 2020)
+================================
 
 - Highlights
 
