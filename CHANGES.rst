@@ -1,5 +1,12 @@
-32-cvs (in development)
+33-cvs (in development)
 =======================
+
+- **Breaking changes**
+
+  - The ``tslint`` checker is deprecated; it will go away in a future release.
+
+32-cvs (frozen on May 3rd, 2020)
+================================
 
 - Highlights
 
