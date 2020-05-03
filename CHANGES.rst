@@ -1,5 +1,13 @@
-32-cvs (in development)
+33-cvs (in development)
 =======================
+
+- New features and improvements
+
+  - The flycheck-verify-setup UI now includes buttons to re-enable manually
+    disabled checkers and to try to re-enable automatically disabled checkers.
+
+32-cvs (frozen on May 3rd, 2020)
+================================
 
 - Highlights
 
