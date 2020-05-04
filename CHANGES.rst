@@ -1,5 +1,14 @@
-32-cvs (in development)
+33-cvs (in development)
 =======================
+
+- New features and improvements
+
+  - Error explainers can now return URLs (to show a webpage) or functions (to
+    use custom formatting).  For example, the Rust checker now renders
+    explanations using ``markdown-view-mode``.
+
+32-cvs (frozen on May 3rd, 2020)
+================================
 
 - Highlights
 
